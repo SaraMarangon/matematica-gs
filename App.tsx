@@ -23,7 +23,7 @@ const App: React.FC = () => {
         <div className="max-w-5xl mx-auto">
           <div className="flex items-center gap-3 mb-4 opacity-80">
             <GraduationCap size={24} />
-            <span className="uppercase tracking-wider text-sm font-semibold"> Aprendizado contínuo e requalificação</span>
+            <span className="uppercase tracking-wider text-sm font-semibold">Matemática Aplicada</span>
           </div>
           <h1 className="text-3xl md:text-5xl font-bold mb-2 font-serif">
             Global Solution
